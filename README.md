@@ -6,7 +6,7 @@ Projeto criado para praticar Git e GitHub.
 
 - [Bolo de Chocolate](#bolo-de-chocolate)
 - [Pudim](#pudim)
-- - [Bolo de cenoura](#bolo-de-cenoura)
+- [Bolo de cenoura](#bolo-de-cenoura)
 ---
 
 ## Bolo de Chocolate
